@@ -78,7 +78,7 @@ documentation.
 
 NOTE:
 In GitLab 13.7 and earlier, if you have a data type with zero items to sync,
-this command reports `ERROR - Replication is not up-to-date` even if
+this command reports ![Replication status](../../replication/img/geo_dashboard_v14_0.png) even if
 replication is actually up-to-date. This bug was fixed in GitLab 13.8 and
 later.
 
